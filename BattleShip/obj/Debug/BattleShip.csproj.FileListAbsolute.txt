@@ -1,0 +1,9 @@
+F:\project201701\CSharp\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+F:\project201701\CSharp\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+F:\project201701\CSharp\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+F:\project201701\CSharp\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+F:\project201701\CSharp\BattleShip\BattleShip\obj\Debug\BattleShip.Form1.resources
+F:\project201701\CSharp\BattleShip\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+F:\project201701\CSharp\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.Cache
+F:\project201701\CSharp\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+F:\project201701\CSharp\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
